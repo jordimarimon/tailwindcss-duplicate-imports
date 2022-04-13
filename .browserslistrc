@@ -1,0 +1,16 @@
+# The following file is used by autoprefixer.
+
+# For additional information regarding the format and rule options, please see:
+# https://github.com/browserslist/browserslist#queries
+
+# You can see what browsers were selected by the queries by running:
+#   npm run browserslist
+
+last 2 Chrome version
+last 2 Firefox version
+last 2 Edge major versions
+Safari >= 13.1
+iOS >= 13.4
+
+# https://support.mozilla.org/en-US/kb/choosing-firefox-update-channel
+Firefox ESR
